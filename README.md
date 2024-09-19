@@ -1,5 +1,7 @@
 # 42-Born2beRoot
 
+![born2beroot_grade](./born2beroot_grade.png)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
