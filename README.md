@@ -1,6 +1,6 @@
-# 42-Born2beRoot
+# 42-Born2beroot
 
-![born2beroot_grade](./born2beroot_grade.png)
+![born2beroot grade](./born2beroot_grade.png)
 
 ## Table of Contents
 
